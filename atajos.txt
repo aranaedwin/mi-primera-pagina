@@ -1,0 +1,13 @@
+Ctrl + Shift + X = extensiones
+
+
+
+git
+git init - para inicializar git
+git add . - para agregar todo lo nuevo que hemos creado
+git commit -m "agregar mensaje de lo que estamos subiendo"
+
+subir a Guthub
+git branch -M main
+git remote add origin link del repositorio, esto es solo una vez
+git push -u origin main esto is para subir directamente a la branch main de github
